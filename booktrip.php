@@ -116,7 +116,7 @@ session_start();
         <div class="card-img">
           <a href="booking.php"><img src="img/belerang.jpg" class="img-fluid card-img-top"></a>
             <div class="card-body">
-              <h4 class="card-title">WISMA BELERANG</h4>
+              <h4 class="card-title">W. BELERANG</h4>
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
